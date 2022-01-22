@@ -3,7 +3,7 @@ User Database Application
 2021
 
 To run:
-1. Unzip and change directory to assignment 4 folder
+1. Unzip and change directory to Project folder
 2. Type "npm install"
 3. Type "mkdir database"
 4. Open one terminal and type "mongod --dbpath database"
