@@ -1,14 +1,13 @@
-Comp 2406 Assignment 4
 Matthew Nguyen
-101145844
-December 9, 2021
+User Database Application
+2021
 
 To run:
 1. Unzip and change directory to assignment 4 folder
 2. Type "npm install"
 3. Type "mkdir database"
 4. Open one terminal and type "mongod --dbpath database"
-5. Open another terminal in a4 directory and type "node database-initializer.js"
+5. Open another terminal in project directory and type "node database-initializer.js"
 6. Run with "npm start"
 7. Go to http://localhost:3000/
 
